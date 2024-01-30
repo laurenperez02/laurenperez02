@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- My name is Lauren. I am in the combined degree program and I will be graduating this spring!
+- I'm currently working on my master's thesis which examines the impacts of COVID-19 on education inequality in America.  It studies district level data regarding different socioeconomic and racial backgrounds.
+- I'm currently learning how to code in python and seeking to enhance my skills in R.
 <!--
 **laurenperez02/laurenperez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
